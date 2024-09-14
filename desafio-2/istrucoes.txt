@@ -1,0 +1,5 @@
+para executar o arquivo:
+1 - tenha o python instalado;
+2 - esteja neste diretório (desafio-2);
+3 - no terminal: py desafio-2.py OU python desafio-2.py;
+4 - realize os inputs e demais testes.
