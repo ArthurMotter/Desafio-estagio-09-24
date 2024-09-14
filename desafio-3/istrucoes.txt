@@ -1,0 +1,5 @@
+para executar o arquivo:
+1 - tenha o node instalado;
+2 - esteja neste diretório (desafio-3);
+3 - no terminal: node desafio-3.js;
+4 - o programa ira executar a logica e realizar os outputs.
